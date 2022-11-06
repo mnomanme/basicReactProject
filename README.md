@@ -1,12 +1,18 @@
 # Tours Project
 
-This project is covered full of react useState hook concepts. [Tours]()
+This project is covered full of react useState hook concepts. [Tours](https://basic-react-tours.netlify.app/)
 
 ## Topic is covered
 
 - ### useEffect
 
 - ### Fetch Data
+
+- ### Display Data
+
+- ### Toggle Data
+
+- ### Remove Data
 
 If your run the project directory, you can run:
 

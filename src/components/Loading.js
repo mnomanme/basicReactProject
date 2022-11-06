@@ -1,7 +1,9 @@
 export const Loading = () => {
 	return (
 		<>
-			<h3>Loading</h3>
+			<div className="loading">
+				<h1>Loading</h1>
+			</div>
 		</>
 	);
 };
