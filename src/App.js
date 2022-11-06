@@ -1,20 +1,16 @@
-import { useState } from 'react';
-import { List } from './components/List';
-import { data } from './data';
+import { useEffect, useState } from 'react';
+import { Loading } from './components/Loading';
+import { Tours } from './components/Tours';
+
+const url = `https://course-api.com/react-tours-project`;
 
 const App = () => {
-	const [people, setPeople] = useState(data);
-
 	return (
-		<main>
-			<section className="container">
-				<h3>{people.length} birthday today</h3>
-				<List people={people} />
-				<button onClick={() => setPeople([])} className="">
-					clear all
-				</button>
-			</section>
-		</main>
+		<>
+			<h2>tour project setup</h2>
+			<Loading />
+			<Tours />
+		</>
 	);
 };
 

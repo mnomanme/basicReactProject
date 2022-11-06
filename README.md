@@ -1,10 +1,12 @@
-# Birthday Reminder Project
+# Tours Project
 
-This project is covered full of react useState hook concepts. [Reminder Birthday](https://basic-react-reminder-birthday.netlify.app/)
+This project is covered full of react useState hook concepts. [Tours]()
 
 ## Topic is covered
 
-- ### useState
+- ### useEffect
+
+- ### Fetch Data
 
 If your run the project directory, you can run:
 
@@ -15,7 +17,7 @@ https://github.com/mnomanme/basicReactProject
 ```
 
 ```git
-git checkout birthday-reminder
+git checkout tours
 ```
 
 **2. Installation**
