@@ -3,8 +3,15 @@ import { Review } from './components/Review';
 const App = () => {
 	return (
 		<>
-			<h1>reviews project</h1>
-			<Review />
+			<main>
+				<section className="container">
+					<div className="title">
+						<h2>our reviews</h2>
+						<div className="underline"></div>
+					</div>
+					<Review />
+				</section>
+			</main>
 		</>
 	);
 };

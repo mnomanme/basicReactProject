@@ -1,10 +1,12 @@
 # Reviews Project
 
-This project is covered full of react useState hook concepts. [Reviews]()
+This project is covered full of react useState hook concepts. [Reviews](https://basic-react-review.netlify.app/)
 
 ## Reviews is covered
 
-- ### useEffect
+- ### React Icons
+
+- ### Random Data
 
 If your run the project directory, you can run:
 
