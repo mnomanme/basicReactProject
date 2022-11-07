@@ -1,18 +1,10 @@
-# Tours Project
+# Reviews Project
 
-This project is covered full of react useState hook concepts. [Tours](https://basic-react-tours.netlify.app/)
+This project is covered full of react useState hook concepts. [Reviews]()
 
-## Topic is covered
+## Reviews is covered
 
 - ### useEffect
-
-- ### Fetch Data
-
-- ### Display Data
-
-- ### Toggle Data
-
-- ### Remove Data
 
 If your run the project directory, you can run:
 
@@ -23,7 +15,7 @@ https://github.com/mnomanme/basicReactProject
 ```
 
 ```git
-git checkout tours
+git checkout reviews
 ```
 
 **2. Installation**
