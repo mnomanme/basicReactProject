@@ -1,14 +1,10 @@
-# Accordion Project
+# Menu Project
 
-This project is covered full of react useState hook concepts. [Accordion](https://basic-react-accordion.netlify.app/)
+This project is covered full of react useState hook concepts. [Menu]()
 
-## Reviews is covered
+## Menu is covered
 
-- ### Fetch Data
-
-- ### React Icons
-
-- ### Toggle Button
+- ### Using my fake Data
 
 If your run the project directory, you can run:
 
@@ -19,7 +15,7 @@ https://github.com/mnomanme/basicReactProject
 ```
 
 ```git
-git checkout accordion
+git checkout menu
 ```
 
 **2. Installation**
