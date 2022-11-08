@@ -1,12 +1,14 @@
-# Reviews Project
+# Accordion Project
 
-This project is covered full of react useState hook concepts. [Reviews](https://basic-react-review.netlify.app/)
+This project is covered full of react useState hook concepts. [Accordion]()
 
 ## Reviews is covered
 
+- ### Fetch Data
+
 - ### React Icons
 
-- ### Random Data
+- ### Toggle Button
 
 If your run the project directory, you can run:
 
@@ -17,7 +19,7 @@ https://github.com/mnomanme/basicReactProject
 ```
 
 ```git
-git checkout reviews
+git checkout accordion
 ```
 
 **2. Installation**
