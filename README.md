@@ -1,12 +1,14 @@
-# Menu Project
+# Tab Project
 
-This project is covered full of react useState hook concepts. [Menu](https://basic-react-menu.netlify.app/)
+This project is covered full of react useState hook concepts. [Tab]()
 
-## Menu is covered
+## tab is covered
 
-- ### Using my fake Data
+- ### Fetch Data
 
-- ### Dynamic button approach
+- ### Display Data
+
+- ### Display Buttons
 
 If your run the project directory, you can run:
 
@@ -17,7 +19,7 @@ https://github.com/mnomanme/basicReactProject
 ```
 
 ```git
-git checkout menu
+git checkout tab
 ```
 
 **2. Installation**
