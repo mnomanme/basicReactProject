@@ -1,7 +1,14 @@
-export const Categories = () => {
+export const Categories = ({ filterItems }) => {
 	return (
 		<>
-			<h3>Categories</h3>
+			<div className="btn-container">
+				<button className="filter-btn" onClick={() => filterItems('all')}>
+					all
+				</button>
+				<button className="filter-btn" onClick={() => filterItems('breakfast')}>
+					breakfast
+				</button>
+			</div>
 		</>
 	);
 };
