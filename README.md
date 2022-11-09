@@ -1,10 +1,12 @@
 # Menu Project
 
-This project is covered full of react useState hook concepts. [Menu]()
+This project is covered full of react useState hook concepts. [Menu](https://basic-react-menu.netlify.app/)
 
 ## Menu is covered
 
 - ### Using my fake Data
+
+- ### Dynamic button approach
 
 If your run the project directory, you can run:
 
