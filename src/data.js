@@ -71,5 +71,13 @@ const menu = [
 		img: './assests/item-9.png',
 		desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
 	},
+	{
+		id: 10,
+		title: 'steak premium',
+		category: 'dinner',
+		price: 16.99,
+		img: './assests/item-10.png',
+		desc: `ickstarter thundercats migas everyday carry squid palo santo. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
+	},
 ];
 export default menu;
