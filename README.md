@@ -1,14 +1,16 @@
-# Tab Project
+# Slider Project
 
-This project is covered full of react useState hook concepts. [Tab](https://basic-react-tab.netlify.app/)
+This project is covered full of react useState hook concepts. [Slider]()
 
-## tab is covered
+## Slider is covered
 
-- ### Fetch Data
+- ### Slider Setup Classes
 
-- ### Display Data
+- ### Prev and Next Buttons
 
-- ### Display Buttons
+- ### Slider Autoplay
+
+- ### Slider Alternative
 
 If your run the project directory, you can run:
 
@@ -19,7 +21,7 @@ https://github.com/mnomanme/basicReactProject
 ```
 
 ```git
-git checkout tab
+git checkout slider
 ```
 
 **2. Installation**
