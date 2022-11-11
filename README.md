@@ -1,6 +1,6 @@
 # Slider Project
 
-This project is covered full of react useState hook concepts. [Slider]()
+This project is covered full of react useState hook concepts. [Slider](https://basic-react-slider.netlify.app/)
 
 ## Slider is covered
 
