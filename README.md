@@ -1,10 +1,16 @@
-# Lorem Ipsum Project
+# Color Generator Project
 
-This project is covered full of react useState hook concepts. [Lorem Ipsum](https://basic-react-lorem-ipsum.netlify.app/)
+This project is covered full of react useState hook concepts. [Color Generator]()
 
-## Lorem Ipsum is covered
+## Color Generator is covered
 
-- ### Generated dummy text
+- ### Color Generator Structure
+
+- ### Color Generator Values and Error
+
+- ### Color Generator Single Color  
+
+- ### Color Generator Copy To Clipboard
 
 If your run the project directory, you can run:
 
@@ -15,7 +21,7 @@ https://github.com/mnomanme/basicReactProject
 ```
 
 ```git
-git checkout lorem-ipsum
+git checkout color-generator
 ```
 
 **2. Installation**
