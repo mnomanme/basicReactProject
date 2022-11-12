@@ -31,6 +31,7 @@ const App = () => {
 						type="number"
 						name="amount"
 						id="amount"
+						min="0"
 						value={count}
 						onChange={(e) => setCount(e.target.value)}
 					/>
