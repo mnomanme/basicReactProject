@@ -1,16 +1,8 @@
-# Slider Project
+# Lorem Ipsum Project
 
-This project is covered full of react useState hook concepts. [Slider](https://basic-react-slider.netlify.app/)
+This project is covered full of react useState hook concepts. [Lorem Ipsum](https://basic-react-lorem-ipsum.netlify.app/)
 
-## Slider is covered
-
-- ### Slider Setup Classes
-
-- ### Prev and Next Buttons
-
-- ### Slider Autoplay
-
-- ### Slider Alternative
+## Lorem Ipsum is covered
 
 If your run the project directory, you can run:
 
@@ -21,7 +13,7 @@ https://github.com/mnomanme/basicReactProject
 ```
 
 ```git
-git checkout slider
+git checkout lorem-ipsum
 ```
 
 **2. Installation**
