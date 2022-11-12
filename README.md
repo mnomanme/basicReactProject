@@ -4,6 +4,8 @@ This project is covered full of react useState hook concepts. [Lorem Ipsum](http
 
 ## Lorem Ipsum is covered
 
+- ### Generated dummy text
+
 If your run the project directory, you can run:
 
 **1. Clone this repo:**
