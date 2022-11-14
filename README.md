@@ -1,6 +1,6 @@
 # Color Generator Project
 
-This project is covered full of react useState hook concepts. [Color Generator]()
+This project is covered full of react useState hook concepts. [Color Generator](https://basic-react-color-generator.netlify.app/)
 
 ## Color Generator is covered
 
