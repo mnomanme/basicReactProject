@@ -1,16 +1,22 @@
-# Color Generator Project
+# Grocery Bud Project
 
-This project is covered full of react useState hook concepts. [Color Generator](https://basic-react-color-generator.netlify.app/)
+This project is covered full of react useState hook concepts. [Grocery Bud]()
 
-## Color Generator is covered
+## Grocery Bud is covered
 
-- ### Color Generator Structure
+- ### Grocery Bud Structure
 
-- ### Color Generator Values and Error
+- ### Grocery Bud Add Items
 
-- ### Color Generator Single Color  
+- ### Grocery Bud Alert
 
-- ### Color Generator Copy To Clipboard
+- ### Grocery Bud Clear Items
+
+- ### Grocery Bud Remove Item
+
+- ### Grocery Bud Edit Item
+
+- ### Grocery Bud Local Storage
 
 If your run the project directory, you can run:
 
@@ -21,7 +27,7 @@ https://github.com/mnomanme/basicReactProject
 ```
 
 ```git
-git checkout color-generator
+git checkout grocery-bud
 ```
 
 **2. Installation**
