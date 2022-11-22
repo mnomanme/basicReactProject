@@ -1,7 +1,16 @@
-export const Alert = () => {
+import { useEffect } from 'react';
+
+export const Alert = ({ type, msg, removeAlert }) => {
+	useEffect(() => {
+		const timeOut = setTimeout(() => {
+			removeAlert();
+		}, 3000);
+		return () => clearTimeout(timeOut);
+	}, []);
+
 	return (
 		<>
-			<h3>alert</h3>
+			<p className={`alert alert-${type}`}>{msg}</p>
 		</>
 	);
 };
