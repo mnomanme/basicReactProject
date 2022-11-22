@@ -1,6 +1,6 @@
 # Grocery Bud Project
 
-This project is covered full of react useState hook concepts. [Grocery Bud]()
+This project is covered full of react useState hook concepts. [Grocery Bud](https://basic-react-grocery-bud.netlify.app/)
 
 ## Grocery Bud is covered
 
