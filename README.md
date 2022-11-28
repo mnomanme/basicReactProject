@@ -1,22 +1,14 @@
-# Grocery Bud Project
+# Navbar Project
 
-This project is covered full of react useState hook concepts. [Grocery Bud](https://basic-react-grocery-bud.netlify.app/)
+This project is covered full of react useState, useRef hook concepts. [Navbar]()
 
-## Grocery Bud is covered
+## Navbar is covered
 
-- ### Grocery Bud Structure
+- ### Navbar Structure
 
-- ### Grocery Bud Add Items
+- ### Navbar Data
 
-- ### Grocery Bud Alert
-
-- ### Grocery Bud Clear Items
-
-- ### Grocery Bud Remove Item
-
-- ### Grocery Bud Edit Item
-
-- ### Grocery Bud Local Storage
+- ### Navbar Toggle
 
 If your run the project directory, you can run:
 
@@ -27,7 +19,7 @@ https://github.com/mnomanme/basicReactProject
 ```
 
 ```git
-git checkout grocery-bud
+git checkout navbar
 ```
 
 **2. Installation**
