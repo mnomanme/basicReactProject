@@ -208,7 +208,7 @@ nav {
 .links-container {
 	height: 0;
 	overflow: hidden;
-	transition: var(--transition);
+	/* transition: var(--transition); */
 }
 
 .show-container {
