@@ -1,14 +1,12 @@
-# Navbar Project
+# Sidebar Project
 
-This project is covered full of react useState, useRef hook concepts. [Navbar](https://basic-react-navbar.netlify.app/)
+This project is covered full of react useState, useRef hook concepts. [Sidebar]()
 
-## Navbar is covered
+## Sidebar is covered
 
-- ### Navbar Structure
+- ### Sidebar Structure
 
-- ### Navbar Data
-
-- ### Navbar Toggle
+- ### Sidebar Context
 
 If your run the project directory, you can run:
 
@@ -19,7 +17,7 @@ https://github.com/mnomanme/basicReactProject
 ```
 
 ```git
-git checkout navbar
+git checkout sidebar
 ```
 
 **2. Installation**
