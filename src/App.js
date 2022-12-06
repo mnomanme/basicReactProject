@@ -1,7 +1,13 @@
+import { Home } from './components/Home';
+import { Modal } from './components/Modal';
+import { Sidebar } from './components/Sidebar';
+
 const App = () => {
 	return (
 		<>
-			<h2>sidebar</h2>
+			<Home />
+			<Modal />
+			<Sidebar />
 		</>
 	);
 };
