@@ -1,13 +1,15 @@
-import { Home } from './components/Home';
-import { Modal } from './components/Modal';
+import { Hero } from './components/Hero';
+import { Navbar } from './components/Navbar';
 import { Sidebar } from './components/Sidebar';
+import { Submenu } from './components/Submenu';
 
 const App = () => {
 	return (
 		<>
-			<Home />
-			<Modal />
+			<Hero />
+			<Navbar />
 			<Sidebar />
+			<Submenu />
 		</>
 	);
 };

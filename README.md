@@ -1,12 +1,12 @@
-# Sidebar Project
+# Stripe Project
 
-This project is covered full of react useState, useContext hook concepts. [Sidebar](https://basic-react-sidebar.netlify.app/)
+This project is covered full of react useState, useContext hook concepts. [Stripe]()
 
-## Sidebar is covered
+## Stripe is covered
 
-- ### Sidebar Structure
+- ### Stripe Structure
 
-- ### Sidebar Context
+- ### Stripe Context
 
 If your run the project directory, you can run:
 
@@ -17,7 +17,7 @@ https://github.com/mnomanme/basicReactProject
 ```
 
 ```git
-git checkout sidebar
+git checkout stripe
 ```
 
 **2. Installation**
