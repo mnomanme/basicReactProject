@@ -1,6 +1,6 @@
 # Stripe Project
 
-This project is covered full of react useState, useContext hook concepts. [Stripe]()
+This project is covered full of react useState, useContext hook concepts. [Stripe](https://basic-react-stripe.netlify.app/)
 
 ## Stripe is covered
 
