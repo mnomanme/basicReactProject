@@ -1,15 +1,14 @@
-import { Hero } from './components/Hero';
+import { CartContainer } from './components/CartContainer';
 import { Navbar } from './components/Navbar';
-import { Sidebar } from './components/Sidebar';
-import { Submenu } from './components/Submenu';
+import { useGlobalContext } from './context';
 
 const App = () => {
 	return (
 		<>
-			<Navbar />
-			<Sidebar />
-			<Hero />
-			<Submenu />
+			<main>
+				<Navbar />
+				<CartContainer />
+			</main>
 		</>
 	);
 };

@@ -1,20 +1,26 @@
-# Stripe Project
+# Cart Project
 
-This project is covered full of react useState, useContext hook concepts. [Stripe](https://basic-react-stripe.netlify.app/)
+This project is covered full of react useState, useContext hook concepts. [Cart]()
 
-## Stripe is covered
+## Cart is covered
 
-- ### Stripe Navbar
+- ### Cart Setup
 
-- ### Stripe Hero
+- ### Cart useReducer Setup
 
-- ### Stripe Sidebar
+- ### Cart Clear Cart
 
-- ### Stripe Submenu
+- ### Cart Remove Single Item
 
-- ### Stripe Location
+- ### Cart Increase
 
-- ### Stripe Hide Submenu
+- ### Cart Decrease
+
+- ### Cart Totals
+
+- ### Cart Fetch Data
+
+- ### Cart Toggle Amount
 
 If your run the project directory, you can run:
 
@@ -25,7 +31,7 @@ https://github.com/mnomanme/basicReactProject
 ```
 
 ```git
-git checkout stripe
+git checkout cart
 ```
 
 **2. Installation**
