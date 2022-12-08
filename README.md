@@ -4,9 +4,17 @@ This project is covered full of react useState, useContext hook concepts. [Strip
 
 ## Stripe is covered
 
-- ### Stripe Structure
+- ### Stripe Navbar
 
-- ### Stripe Context
+- ### Stripe Hero
+
+- ### Stripe Sidebar
+
+- ### Stripe Submenu
+
+- ### Stripe Location
+
+- ### Stripe Hide Submenu
 
 If your run the project directory, you can run:
 

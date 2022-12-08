@@ -6,9 +6,9 @@ import { Submenu } from './components/Submenu';
 const App = () => {
 	return (
 		<>
-			<Hero />
 			<Navbar />
 			<Sidebar />
+			<Hero />
 			<Submenu />
 		</>
 	);
