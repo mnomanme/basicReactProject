@@ -1,6 +1,6 @@
 # Cart Project
 
-This project is covered full of react useState, useContext hook concepts. [Cart]()
+This project is covered full of react useState, useReducer, useContext hook concepts. [Cart]()
 
 ## Cart is covered
 
